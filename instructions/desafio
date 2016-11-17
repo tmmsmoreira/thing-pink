@@ -1,0 +1,28 @@
+A aplicação X tem como objectivo listar um feed de tweets do Tweeter enviando uma ou várias hastags.
+
+O teu desafio consiste em criar uma Aplicação Web Based Responsiva com os seguintes requisitos e funcionalidades:
+
+1. Contéudos:
+    1.1. Ter uma lista de tweets tendo como ponto de pesquisa uma ou várias hashtags. Os conteúdos deve ser obtidos sempre através de paginação.
+    1.2. Deves poder visualizar o tweet, likes e qualquer outra informação que achem relevante
+
+2. Responsive:
+    2.1. A aplicação terá que se adptar a resolução do dispositvo sem perder funcionalidades.
+
+3. Animação (opcional):
+	3.1. Mediante os SVG's que te fornecemos, pedia-mos que criasses uma animação. As animações que escolhes ficam ao teu critério e devem ser feitas de forma a animar todas formas que constituem os SVG's.
+
+Requisitos:
+    - A lógica da aplicação deve assentar em javascript.
+    - Deves usar apenas HTML e CSS para criar os templates visuais.
+    - Para a realização do desafio podes usar Angular.JS, React ou uma framework de base javascript.
+    - O desafio terá que estar bem documentado.
+    - Código bem estruturado e legível.
+    - A explicação das descisões de implementação têm que ser documentadas.
+    - Os pontos opcionais no caso de não serem implementados, é valorizado uma descrição da abordagem/tecnologia que usarias. 
+
+O limite de entrega deste desafio é de 8 dias a contar da data de envio deste desafio.
+Qualquer dúvida, podes entrar em contacto com os endereços de email presentes no email.
+
+Boa sorte!
+
